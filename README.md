@@ -27,7 +27,7 @@ Start the server
 ```bash
   java -jar target/palindrome_validation-0.0.1-SNAPSHOT.jar
 ```
-or or from Maven
+or from Maven
 
 ```bash
   mvn spring-boot:run
