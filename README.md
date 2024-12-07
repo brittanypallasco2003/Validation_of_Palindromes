@@ -13,7 +13,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Validation_of_Palindromes
 ```
 
 Install dependencies
@@ -25,6 +25,9 @@ Install dependencies
 Start the server
 
 ```bash
-  java -jar target/palindrome_validation.jar
-
+  java -jar target/palindrome_validation.jar\Users\Brithany\Downloads\Valjava -jar target/palindrome_validation-0.0.1-SNAPSHOT.jar
 ```
+
+## Accessing the Application
+
+Open your browser and go to http://localhost:8080/verify-palindrome/**param**
