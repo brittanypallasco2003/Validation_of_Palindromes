@@ -30,4 +30,4 @@ Start the server
 
 ## Accessing the Application
 
-Open your browser and go to http://localhost:8080/verify-palindrome/**param**
+Open your browser and go to http://localhost:8080/verify-palindrome/param
