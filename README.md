@@ -33,6 +33,6 @@ or or from Maven
   mvn spring-boot:run
 ```
 
-## Accessing the Application
+Accessing the Application
 
 Open your browser and go to http://localhost:8080/verify-palindrome/param
