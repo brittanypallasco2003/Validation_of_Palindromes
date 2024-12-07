@@ -25,7 +25,12 @@ Install dependencies
 Start the server
 
 ```bash
-  java -jar target/palindrome_validation.jar\Users\Brithany\Downloads\Valjava -jar target/palindrome_validation-0.0.1-SNAPSHOT.jar
+  java -jar target/palindrome_validation-0.0.1-SNAPSHOT.jar
+```
+or or from Maven
+
+```bash
+  mvn spring-boot:run
 ```
 
 ## Accessing the Application
